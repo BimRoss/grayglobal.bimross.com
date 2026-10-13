@@ -39,9 +39,13 @@ The following are invented for the preview and are **not real**:
 
 - Email `david.glossop@grayglobalpartners.com`
 - Phone `+971 4 401 7600`
-- LinkedIn `linkedin.com/in/davidglossop`
 - Office `Gate Avenue, DIFC, Dubai`
-- The "DG" portrait block is a monogram placeholder — swap in a real headshot.
+- The "DG" portrait block is a monogram placeholder — swap in David's real headshot (LinkedIn blocks scraping; the image has to be supplied directly).
+
+Real / verified:
+
+- LinkedIn `linkedin.com/in/david-glossop`
+- Bio detail on the About page (sustainability + development across mining, oil & gas, ports, civil, renewables; IS AP and Green Star AP; Applied Science & Law double degree, MBA) is drawn from his public LinkedIn and should be confirmed with David.
 - Section/hero photography is AI-generated. Replace with licensed or real project imagery before any commercial use.
 
 The contact form has **no backend** yet. It shows a confirmation on submit but does not send anything. Wire it to an email service (Formspree, a serverless function, or a mailto) before launch.
